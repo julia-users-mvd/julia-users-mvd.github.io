@@ -4,7 +4,7 @@ Repository for the homepage of the [Julia Users Group - Montevideo](https://juli
 
 ## Contacto
 
-Encontranos en *Slack*: solicitar acceso al [Julia workspace](https://slackinvite.julialang.org/). Luego de loguearte, buscá el canal `#mvd-local`.
+Encontranos en *Slack*: solicitá acceso al [Julia workspace](https://slackinvite.julialang.org/). Luego de loguearte, buscá el canal `#mvd-local`.
 
 ## Próxima reunión
 
