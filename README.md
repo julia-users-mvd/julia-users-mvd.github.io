@@ -1,2 +1,3 @@
 # julia-users-mvd.github.io
-Julia Users Group - Montevideo
+
+Repository for the homepage of the [Julia Users Group - Montevideo](https://julia-users-mvd.github.io/).
