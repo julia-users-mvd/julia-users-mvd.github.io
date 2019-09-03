@@ -1,4 +1,4 @@
-# Julia Users Group - Montevideo
+# julia-users-mvd.github.io
 
 Organización de meet-ups para usuarios de Julia en Montevideo
 
