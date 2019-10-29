@@ -10,22 +10,36 @@ Para editar el homepage de [Julia Users Group - Montevideo](https://julia-users-
 
 ## Próxima reunión
 
+**Fecha y hora:**
+
+**Lugar:** 
+
+## Reuniones anteriores
+
+---
+
+
 **Fecha y hora:** Lunes 28 de octubre, 2019, 17:30 hrs.
 
 **Lugar:** Sala de seminarios, Piso 14, Facultad de Ciencias, Universidad de la República.
 
-## Reuniones anteriores
+**Tema:** Data frames.
 
+---
 
 **Fecha y hora:** Lunes 14 de octubre, 2019, 17:30 hrs.
 
 **Lugar:** Sala de seminarios, Piso 14, Facultad de Ciencias, Universidad de la República.
+
+**Tema:** Tipos en Julia. IntervalMatrices.
 
 ---
 
 **Fecha y hora:** Lunes 30 de setiembre, 2019, 18:00 hrs (tenemos el salón a partir de 17.30).
 
 **Lugar:** Salón 703, [Facultad de Ingeniería, Universidad de la República](https://goo.gl/maps/ZDjfxe8MNFjoA9ZL9).
+
+**Tema:** Programación dinámica con JuMP.
 
 ---
 
